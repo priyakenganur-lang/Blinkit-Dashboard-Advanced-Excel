@@ -1,53 +1,54 @@
 # Blinkit-Dashboard-Advanced-Excel
 Project Overview
+
 This project focuses on analyzing sales performance of Blinkit (India’s last-minute delivery app) using an interactive dashboard created in Excel. The dashboard provides insights into sales trends, item categories, outlet performance, and customer preferences. It helps stakeholders make data-driven decisions by visualizing key business metrics in a simple and effective way.
 ________________________________________
 Objectives
 
-•	 To To analyze total sales and average sales across outlets
+•  To To analyze total sales and average sales across outlets
 
-•	To understand the impact of outlet size and location on revenue
+• To understand the impact of outlet size and location on revenue
 
-•	To identify top-performing item categories
+• To identify top-performing item categories
 
-•	To compare low-fat vs regular product sales
+• To compare low-fat vs regular product sales
 
-•	To track outlet establishment trends over the years
+• To track outlet establishment trends over the years
 
-•	To create an interactive and user-friendly dashboard
+• To create an interactive and user-friendly dashboard
 ________________________________________
 Tools & Technologies Used
 
-•	 Microsoft Excel
+•  Microsoft Excel
 
-•	Pivot Tables
+• Pivot Tables
 
-•	Pivot Charts
+• Pivot Charts
 
-•	Slicers (for filtering)
+• Slicers (for filtering)
 
-•	Data Cleaning & Formatting
+• Data Cleaning & Formatting
 
-•	Basic formulas (SUM, AVERAGE, COUNT)
+• Basic formulas (SUM, AVERAGE, COUNT)
 ________________________________________
 
 Dataset Description
 
 The The dataset contains information related to:
 
-•	Item types (Fruits, Snacks, Dairy, etc.)
+• Item types (Fruits, Snacks, Dairy, etc.)
 
-•	Sales values
+• Sales values
 
-•	Outlet size (Small, Medium, High)
+• Outlet size (Small, Medium, High)
 
-•	Outlet location (Tier 1, Tier 2, Tier 3)
+• Outlet location (Tier 1, Tier 2, Tier 3)
 
-•	Outlet establishment year
+• Outlet establishment year
 
-•	Product type (Low Fat / Regular)
+• Product type (Low Fat / Regular)
 
-•	Ratings and item count
+• Ratings and item count
 ________________________________________
 Data Pipeline
 
@@ -66,6 +67,7 @@ ________________________________________
 Dashboard Features
 
 KPI KPI Cards: 
+
             o	Total Sales
            
             o	Average Sales
@@ -74,17 +76,17 @@ KPI KPI Cards:
             
             o	Average Rating
 
-•	Slicer Filter: Outlet Size (High, Medium, Small)
+• Slicer Filter: Outlet Size (High, Medium, Small)
 
-•	Donut Charts: Fat Content, Outlet Size
+• Donut Charts: Fat Content, Outlet Size
 
-•	Bar Charts: Item Type, Outlet Type
+• Bar Charts: Item Type, Outlet Type
 
-•	Trend Analysis: Outlet Establishment over years
+• Trend Analysis: Outlet Establishment over years
 
-•	Location Analysis: Tier-wise sales distribution
+• Location Analysis: Tier-wise sales distribution
 
-•	Interactive filtering for better user experience
+• Interactive filtering for better user experience
 
 Visualizations:
 
@@ -98,17 +100,17 @@ o	Treemap(Amount Occupation)
 ________________________________________
 Key Insights
 
-•	 Total sales reached approximately $1.2M
+•  Total sales reached approximately $1.2M
 
-•	Regular fat products contribute more sales than low-fat items
+• Regular fat products contribute more sales than low-fat items
 
-•	Tier 3 locations generate higher revenue compared to Tier 1 and Tier 2
+• Tier 3 locations generate higher revenue compared to Tier 1 and Tier 2
 
-•	Supermarket Type1 outlets dominate sales performance
+• Supermarket Type1 outlets dominate sales performance
 
-•	Fruits & Vegetables and Snack Foods are top-selling categories
+• Fruits & Vegetables and Snack Foods are top-selling categories
 
-•	Sales increased significantly after 2017, showing business growth
+• Sales increased significantly after 2017, showing business growth
 ________________________________________
 How to Run the Project
 
@@ -124,13 +126,13 @@ How to Run the Project
 ________________________________________
 Future Enhancements
 
-•	Integrate with Power BI for advanced visualization
+• Integrate with Power BI for advanced visualization
 
-•	Add forecasting for future sales trends
+• Add forecasting for future sales trends
 
-•	Include customer segmentation analysis
+• Include customer segmentation analysis
 
-•	Automate data updates using Power Query
+• Automate data updates using Power Query
 
 •	Add more KPIs like profit margin and growth rate
 ________________________________________
