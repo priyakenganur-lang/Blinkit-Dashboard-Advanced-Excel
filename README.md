@@ -65,7 +65,14 @@ Data Pipeline
 ________________________________________
 Dashboard Features
 
-KPI KPI Cards: Total Sales, Average Sales, Number of Items, Average Rating
+KPI KPI Cards: 
+            o	Total Sales
+           
+            o	Average Sales
+            
+            o	Number of Items 
+            
+            o	Average Rating
 
 •	Slicer Filter: Outlet Size (High, Medium, Small)
 
